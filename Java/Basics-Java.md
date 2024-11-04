@@ -1,6 +1,6 @@
-#Java基础知识
+# Java基础知识
 ---
-##类型范围
+## 类型范围
 
 byte -> short -> int ->long ->float ->double
 
@@ -19,7 +19,7 @@ byte b1=2; byte b2=3;
 需要强制类型转换=> byte b3=(byte)b1+b2;
 ```
 
-##数组
+## 数组
 ***常见格式***
 
 数组类型[ ] 数组名 = new 数据类型[]{元素1，元素1···} ;
@@ -40,7 +40,7 @@ byte b1=2; byte b2=3;
 
 - 堆内存：new出来的对象都存在堆内存中 （堆内存比较大）
 
-##方法
+## 方法
 ``` 
 public static viod java(){
 System.out.printIn("This is java");
