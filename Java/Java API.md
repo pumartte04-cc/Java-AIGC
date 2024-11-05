@@ -15,6 +15,7 @@
 
 ```
 public class StringDemo(){
+    public static void main(String[] args){
 	String words = "我是单词"；
 	System.out.printIn(words.length());
 	char word = words.charAt[1];
@@ -44,6 +45,7 @@ public class StringDemo(){
 	for(int i=0;i<splitStar.lenth;i++){
 		System.out.printIn(splitStar[i]);
 	}
+    }
 }
 ```
 
