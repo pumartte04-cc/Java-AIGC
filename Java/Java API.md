@@ -49,6 +49,15 @@ public class StringDemo(){
 }
 <<<<<<< HEAD
 ```
+
+## Arraylist
+![ArrayList常用方法](/picture/ArrayList.png)
+
+**创建方法：**
+ArrayList<> list =new ArrayList<>();
+
+
+
 =======
 ```
 
